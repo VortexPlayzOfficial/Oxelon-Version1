@@ -36,6 +36,7 @@ EXTENSIONS = [
     "cogs.customsettings",
     "cogs.technician",
     "cogs.promotion"
+    "cogs.uptime",
 ]
 
 
